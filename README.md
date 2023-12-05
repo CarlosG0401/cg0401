@@ -1,2 +1,2 @@
 # cg0401
-This is a my pratice of Github and Git
+This is  my pratice of Github and Git
